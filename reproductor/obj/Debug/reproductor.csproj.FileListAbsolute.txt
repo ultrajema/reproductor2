@@ -1,0 +1,17 @@
+C:\Users\emanu\source\repos\reproductor\reproductor\bin\Debug\reproductor.exe.config
+C:\Users\emanu\source\repos\reproductor\reproductor\bin\Debug\reproductor.exe
+C:\Users\emanu\source\repos\reproductor\reproductor\bin\Debug\reproductor.pdb
+C:\Users\emanu\source\repos\reproductor\reproductor\bin\Debug\Interop.WMPLib.dll
+C:\Users\emanu\source\repos\reproductor\reproductor\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.csprojAssemblyReference.cache
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\Interop.WMPLib.dll
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.ResolveComReference.cache
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.Form1.resources
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.Properties.Resources.resources
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.GenerateResource.cache
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.CoreCompileInputs.cache
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.exe
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.pdb
+C:\Users\emanu\source\repos\reproductor\reproductor\bin\Debug\taglib-sharp.dll
+C:\Users\emanu\source\repos\reproductor\reproductor\obj\Debug\reproductor.csproj.CopyComplete
